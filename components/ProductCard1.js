@@ -55,7 +55,7 @@ export default function ProductCard1() {
        
         <SwiperSlide>
           <div className={styles.cardBox}>
-            <Image src={myImg1} className={styles.image}/>
+            <Image src={myImg1} alt='img niholcha' className={styles.image}/>
             <h1 className='font-bold font-sans text-[#60a24c] text-center text-2xl  p-5'>Нихолча</h1>
             <p className='text-md font-semibold text-center'>Нихолчаларни Апрелдан Августгача екиш мумкин.</p>
             <h3 className='font-semibold font-sans text-teal-900 text-center text-2xl p-3 '><span className='font-medium text-[#7f2a4b]'>Нарх:</span>3000~5000 сум</h3>
@@ -63,7 +63,7 @@ export default function ProductCard1() {
         </SwiperSlide>
         <SwiperSlide>
           <div className={styles.cardBox}>
-            <Image src={myImg2} className={styles.image}/>
+            <Image src={myImg2} alt='img kochat' className={styles.image}/>
             <h1 className='font-bold font-sans text-[#60a24c] text-center text-2xl  p-5'>Бир йиллик кучат</h1>
             <p className='text-md font-semibold text-center'>Куз ва бахор мавсумида екиш учун тайёр бир йиллик кучатлар.</p>
             <h3 className='font-semibold font-sans text-teal-900 text-center text-2xl p-3 '><span className='font-medium text-[#7f2a4b]'>Нарх:</span>10.000~50.000 сум</h3>
@@ -71,7 +71,7 @@ export default function ProductCard1() {
         </SwiperSlide>
         <SwiperSlide>
           <div className={styles.cardBox}>
-            <Image src={myImg3} className={styles.image}/>
+            <Image src={myImg3} alt='img tomir' className={styles.image}/>
             <h1 className='font-bold font-sans text-[#60a24c] text-center text-2xl  p-5'>Томир Қаламча</h1>
             <p className='text-md font-semibold text-center'>Узингиз нихолча йетиштирмокчимисиз, унда томир каламча сиз учун.</p>
             <h3 className='font-semibold font-sans text-teal-900 text-center text-2xl p-3 '><span className='font-medium text-[#7f2a4b]'>Нарх:</span>800~1500 сум</h3>
@@ -79,7 +79,7 @@ export default function ProductCard1() {
         </SwiperSlide>
         <SwiperSlide>
           <div className={styles.cardBox}>
-            <Image src={myImg4} className={styles.image}/>
+            <Image src={myImg4} alt='img biogumus' className={styles.image}/>
             <h1 className='font-bold font-sans text-[#60a24c] text-center text-2xl  p-5'>Биогумус</h1>
             <p className='text-md font-semibold text-center'>Ер унумдорлиги учун сифатли ва хамёнбоп биогумус.</p>
             <h3 className='font-semibold font-sans text-teal-900 text-center text-2xl p-3 '><span className='font-medium text-[#7f2a4b]'>Нарх:</span>2000~3000 сум</h3>

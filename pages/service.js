@@ -23,7 +23,7 @@ const service = () => {
                <div className="grid lg:grid-cols-3 sm:grid-cols-2 sm:grid-rows-4 max-[300px]:ml-20">
                  <div className=" place-self-center">
                     <div className='h-80 w-80 p-4'>
-                        <Image src={mypic} className='rounded-lg h-72 shadow-md shadow-teal-300'/>
+                        <Image src={mypic} alt='Pavlovniya Niholcha' className='rounded-lg h-72 shadow-md shadow-teal-300'/>
                     </div> 
                  </div>
                  <div className="lg:col-span-2  max-[350px]:place-self-center max-[350px]:w-80 sm:pt-8">
@@ -32,7 +32,7 @@ const service = () => {
                  </div>
                  <div className=" place-self-center">
                     <div className='h-80 w-80 p-4'>
-                        <Image src={mypic1} className='rounded-lg h-72 shadow-md shadow-teal-300'/>
+                        <Image src={mypic1} alt='Pavlovniya Kochat' className='rounded-lg h-72 shadow-md shadow-teal-300'/>
                     </div>    
                  </div>
                  <div className="lg:col-span-2 max-[350px]:place-self-center max-[350px]:w-80 sm:pt-8">
@@ -42,7 +42,7 @@ const service = () => {
                  </div>
                  <div className=" place-self-center">
                     <div className='h-80 w-80 p-4'>
-                        <Image src={mypic2} className='rounded-lg h-72 shadow-md shadow-teal-300'/>
+                        <Image src={mypic2} alt='Pavlovniya Tomir' className='rounded-lg h-72 shadow-md shadow-teal-300'/>
                     </div>
                  </div>
                  <div className="lg:col-span-2 max-[350px]:place-self-center max-[350px]:w-80 sm:pt-8">
@@ -52,7 +52,7 @@ const service = () => {
                  </div>
                  <div className=" place-self-center">
                     <div className='h-80 w-80 p-4'>
-                        <Image src={mypic3} className='rounded-lg h-72 shadow-md shadow-teal-300'/>
+                        <Image src={mypic3} alt='Biogumus' className='rounded-lg h-72 shadow-md shadow-teal-300'/>
                     </div>
                  </div>
                  <div className="lg:col-span-2 max-[350px]:place-self-center max-[350px]:w-80 sm:pt-8">

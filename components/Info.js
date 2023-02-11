@@ -17,7 +17,7 @@ const Info = ()=> {
             </div>
             <div className='flex flex-row max-[600px]:flex-col items-center w-screen m-0'>
                 <div className='ml-20 mr-10'>
-                    <Image src={niholchaImg} className={styles.niholchaImg}/>
+                    <Image src={niholchaImg} alt='Pavlovniya Niholcha' className={styles.niholchaImg}/>
                 </div>
                 <div className='md:tracking-widest '>
                     <h1 className='text-2xl text-[#2e2a2a] font-semibold font-serif md:mb-4 max-[600px]:my-3'><Link href='/about' className='hover:cursor-pointer hover:underline decoration-teal-500'><span className='text-[#75d80b]'>Павлония</span> хакида</Link></h1>
