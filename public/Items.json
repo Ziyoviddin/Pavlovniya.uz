@@ -1,0 +1,31 @@
+
+{
+    "items": {
+      "bootstrap": [
+      
+      ],
+      "elastic": [
+       
+      ],
+      "responsive": [
+        {
+          "id": 1,
+          "title": "Swiper Carousel Example1",
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste quos mollitia sed quod consectetur at quam dolore praesentium neque eos assumenda iusto nam laborum laboriosam odio blanditiis possimus accusantium recusandae porro exercitationem itaque",
+          "imageUrl": "https://images.unsplash.com/photo-1675478913070-a2a53f81b886?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=700&q=60"
+        },
+        {
+          "id": 2,
+          "title": "Swiper Carousel Example2",
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste quos mollitia sed quod consectetur at quam dolore praesentium neque eos assumenda iusto nam laborum laboriosam odio blanditiis possimus accusantium recusandae porro exercitationem itaque",
+          "imageUrl": "../images/pavloniya1.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Swiper Carousel Example3",
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste quos mollitia sed quod consectetur at quam dolore praesentium neque eos assumenda iusto nam laborum laboriosam odio blanditiis possimus accusantium recusandae porro exercitationem itaque",
+          "imageUrl": "https://res.cloudinary.com/kizmelvin/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1645534321/kizmelvin/Carousel%20assets/luwadlin-bosman-J1oObe7WWjk-unsplash_f56oh3.jpg"
+        }
+      ]
+    }
+  }

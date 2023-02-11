@@ -1,0 +1,28 @@
+.hero{
+    background-image: url('../assets/images/PavloniyaUzbekistan.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    height: 500px;
+    flex-direction: column;
+}
+@media screen and (max-width:600px){
+.hero{
+        height: 350px;
+}
+.all{
+    margin-inline: auto;
+    @apply max-[350px]:w-[400px]
+}
+}
+@media screen and (min-width:600px){
+.niholchaImg{
+    @apply w-[400px] h-64
+}
+}
+@media screen and (max-width:1200px){
+
+}
+
+  

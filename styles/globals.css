@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 html,
 body {
   padding: 0;
@@ -7,6 +11,7 @@ body {
 }
 
 a {
+  @apply hover:cursor-pointer;
   color: inherit;
   text-decoration: none;
 }
@@ -15,6 +20,11 @@ a {
   box-sizing: border-box;
 }
 
+ul li {
+  @apply hover:cursor-pointer;
+}
+
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
@@ -22,5 +32,41 @@ a {
   body {
     color: white;
     background: black;
+  }
+}
+
+@media screen and (max-width:650px){
+  .swiper {
+    width: 80%;
+    height: 100%;
+    }
+    
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      text-align: center;
+      
+      
+      
+    
+      /* Center slide text vertically */
+      display: flex;
+     justify-content: center;
+      align-items: center;
+    }
+    
+    .swiper-slide img {
+    margin-inline: auto;
+     width: 80vw;
+     height:65vh;
+     border-radius: 0.5rem;
+     margin-top: 10px;
+    }
+   
+}
+  
+@media screen and (min-width:600px) {
+  .swiper{
+  display: none;
   }
 }

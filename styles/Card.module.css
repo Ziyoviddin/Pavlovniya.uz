@@ -1,0 +1,53 @@
+
+  .testSwiper {
+    width: 100vw;
+    height:850px;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-inline: auto;
+    
+   
+  }
+  .cardBox {
+    box-shadow: 0 8px 12px 0 rgba(172, 147, 243, 0.2), 0 6px 20px 0 rgba(186, 158, 243, 0.19);
+    border-radius: 0.5rem;
+    height: 95%;
+    
+  }
+
+  
+  @media screen and (min-width:650px) {
+    .testSwiper{
+    display: none;
+    }
+  }
+  @media screen and (max-width:350px) {
+    .testSwiper{
+    width: 400px;
+    }
+  }
+ 
+  @media screen and (max-width:380px) {
+    .testSwiper{
+     height: 700px;
+    }
+  }
+ 
+
+  /*
+  .imgBox {
+    width: 320px;
+    height:350px;
+    display: flex;
+    margin-inline: auto;
+  }
+  
+  .image {
+    width: 100vw;
+    height: 100vh;
+  }
+  
+*/
+ 

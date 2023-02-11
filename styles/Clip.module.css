@@ -1,0 +1,48 @@
+
+/* With percent */
+@media screen and (min-width:600px) {
+  
+  .clipDiv {
+    background: rgb(25, 25, 25);
+    width: 70%;
+    height: 500px;
+    display: inline-flex;
+    position:absolute;
+
+    clip-path: polygon(0 0, 100% 0%, 75% 100%, 0% 100%);
+  }
+
+  /* With background */
+.clipImg {
+    background: url('../assets/images/plantatsiya.jpg') no-repeat center/cover;
+    width: 50%;
+    height: 500px;
+    display: inline-flex;
+    margin-left: 50%;
+    
+    clip-path: polygon(25% 0, 100% 0%, 100% 100%, 0% 100%);
+  }
+}
+@media screen and (max-width:600px) {
+  
+  .clipDiv {
+    background: rgb(25, 25, 25);
+    width: 70%;
+    height: 300px;
+    display: inline-flex;
+    position:absolute;
+
+    clip-path: polygon(0 0, 100% 0%, 75% 100%, 0% 100%);
+  }
+
+  /* With background */
+.clipImg {
+    background: url('../assets/images/plantatsiya.jpg') no-repeat center/cover;
+    width: 50%;
+    height: 300px;
+    display: inline-flex;
+    margin-left: 50%;
+    
+    clip-path: polygon(25% 0, 100% 0%, 100% 100%, 0% 100%);
+  }
+}
