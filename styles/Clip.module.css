@@ -23,6 +23,7 @@
     clip-path: polygon(25% 0, 100% 0%, 100% 100%, 0% 100%);
   }
 }
+
 @media screen and (max-width:600px) {
   
   .clipDiv {
@@ -34,8 +35,7 @@
 
     clip-path: polygon(0 0, 100% 0%, 75% 100%, 0% 100%);
   }
-
-  /* With background */
+  /*with background image*/
 .clipImg {
     background: url('../assets/images/plantatsiya.jpg') no-repeat center/cover;
     width: 50%;
