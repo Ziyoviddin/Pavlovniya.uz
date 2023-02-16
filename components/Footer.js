@@ -36,10 +36,10 @@ const Footer = () => {
           <p className='py-1'>+998942757462</p>
           <p className='py-1'>+998941590836</p>
           <ul className='flex flex-row mx-auto mt-2'>
-              <li className='h-6 w-6 hover:scale-110'><a href='https://instagram.com/pavlovniya.uz?igshid=ZDdkNTZiNTM=' alt='instagram/pavlovniya.uz'><AiFillInstagram/></a></li>
-              <li className='h-6 w-6 hover:scale-110'><a href='https://t.me/Pavloniya_biz'alt='t.me/Pavloniya_biz'><FaTelegram /></a></li>
+              <li className='h-6 w-6 hover:scale-110'><a href='https://instagram.com/pavlovniya.uz?igshid=ZDdkNTZiNTM=' target='_blank' alt='instagram/pavlovniya.uz'><AiFillInstagram/></a></li>
+              <li className='h-6 w-6 hover:scale-110'><a href='https://t.me/Pavloniya_biz' target='_blank' alt='t.me/Pavloniya_biz'><FaTelegram /></a></li>
               <li className='h-6 w-6 hover:scale-110'><a><RiWhatsappFill/></a></li>
-              <li className='h-6 w-6 hover:scale-110'><a href='https://www.facebook.com/groups/1190203988530515/?ref=share' alt='facebook/pavloniya.uz'><FaFacebook/></a></li>
+              <li className='h-6 w-6 hover:scale-110'><a href='https://www.facebook.com/groups/1190203988530515/?ref=share' target='_blank' alt='facebook/pavloniya.uz'><FaFacebook/></a></li>
            </ul>
        
           
