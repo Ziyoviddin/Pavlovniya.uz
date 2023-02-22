@@ -1,7 +1,7 @@
 
   .testSwiper {
     width: 100vw;
-    height:700px;
+    height: 100vh;
     background-color: transparent;
     display: flex;
     justify-content: center;
