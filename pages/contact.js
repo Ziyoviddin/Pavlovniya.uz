@@ -18,7 +18,7 @@ const contact = () => {
                 <p className=" mx-auto py-1"><span className='font-bold'>Тел:</span> <span className="underline decoration-green-500 tracking-widest">+998942757462</span></p>
                 <p className=" mx-auto py-1"><span className='font-bold'>Манзил:</span> Наманган вил. Норин т.</p>
                 <p className=" mx-auto py-1"><span className='font-bold'>Телеграм:</span > <span className="underline decoration-green-500 tracking-widest">+998942757462</span></p>
-                <p className=" mx-auto py-1"><span className='font-bold'>Почта:</span> ziyoviddinakramov@gmail.com</p>
+                <p className=" mx-auto py-1"><span className='font-bold'>Почта:</span>info@pavloniyachi.uz</p>
                 <div className=" mx-auto py-2 flex flex-row"> <BsFillHandIndexThumbFill className="text-yellow-400"/><p className="pl-2 decoration-orange-500 underline">Алоқа.</p></div>
                
             </div>
