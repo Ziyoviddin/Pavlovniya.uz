@@ -13,12 +13,12 @@ const Footer = () => {
               <div className='flex flex-row mt-4'>
                     <div className='flex flex-col'>
                       <Link href="/" className="font-bold text-xl cursor-pointer  mt-3 text-green-600">
-                      <h1>Pavlovniya<span className="text-blue-500">.uz</span></h1>
+                      <h1>Pavloniyachi<span className="text-blue-500">.uz</span></h1>
                       </Link>
                       <p className='text-white sm:m-4 m-1'>Ўзбекистонда ва марказий осиёда павловния дарахти ва махсулотларини купайтириш учун www.pavloniya.uz уз хизматларини таклиф килади.</p>
                     </div>
               </div>
-              <p className='flex flex-row  mx-auto'> <IoMdGlobe className='h-5 w-5'/>www.pavloniya.uz</p>
+              <p className='flex flex-row  mx-auto'> <IoMdGlobe className='h-5 w-5'/>www.pavloniyachi.uz</p>
              
         </div>
         <div className='flex flex-col mx-auto'>

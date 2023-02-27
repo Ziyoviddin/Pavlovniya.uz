@@ -17,7 +17,7 @@ export default function Home({articles}) {
   return (
     <div className={styles.all}>
       <Meta 
-        title='Pavlovniya.uz' 
+        title='Pavloniyachi.uz' 
         description='Ўзбекистонда Павловния Етиштириш' 
         content='Павловния дарахти'
       />

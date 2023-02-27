@@ -33,7 +33,7 @@ const Navbar = () => {
                                 <Link href="/" className={navStyles.nav.img}><Image src={mypic} alt='img logo'/></Link>
                                 <Link href="/" className="font-bold text-xl cursor-pointer mt-6 text-green-600">
                                 <h1 >
-                                    Pavlovniya<span className="text-blue-500">.uz</span>
+                                    Pavloniyachi<span className="text-blue-500">.uz</span>
                                 </h1>
                                 </Link>
                             </div>
