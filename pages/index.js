@@ -1,4 +1,4 @@
-import Head from 'next/head'
+//import Head from 'next/head'
 import Hero from "../components/Hero"
 import Info from "../components/Info"
 import Service from "../components/Service"
@@ -8,7 +8,7 @@ import ProductCard1 from '../components/ProductCard1'
 import Meta from '../components/Meta'
 
 import styles from '../styles/Responsive.module.css'
-import Footer from '../components/Footer'
+//import Footer from '../components/Footer'
 
 
 
