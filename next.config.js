@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: false,
   swcMinify: true, 
-  useFileSystemPublicRoutes: false,
+ //useFileSystemPublicRoutes: false,
   
 }
 

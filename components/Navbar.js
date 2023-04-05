@@ -30,7 +30,7 @@ const Navbar = () => {
                     <div className="flex items-center h-20 w-full">
                         <div className="flex items items-center sm:mx-20 mr-5 justify-between w-full">
                             <div className="flex justify-center items-center flex-shrink-0">
-                                <Link href="/" className={navStyles.nav.img}><Image src={mypic} alt='img logo' priority={42}/></Link>
+                                <Link href="/" className={navStyles.nav.img}><Image src={mypic} alt='img logo' /></Link>
                                 <Link href="/" className="font-bold text-xl cursor-pointer mt-6 text-green-600">
                                 <h1 >
                                     Pavloniyachi<span className="text-blue-500">.uz</span>
